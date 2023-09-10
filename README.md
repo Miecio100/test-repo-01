@@ -2,10 +2,6 @@
 
 An exemplary repo
 
-# Branch
-
-Feature
-
 # Changelog
 
 ## Change 1
